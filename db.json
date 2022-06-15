@@ -7,11 +7,11 @@
         "image":
           "https://gshock.casio.com/content/casio/locales/us/en/brands/gshock/products/type/_jcr_content/root/responsivegrid/container_1983787584/content_panel_list/content_panel_202101/image.casiocoreimg.jpeg/1653058939867/mens-digital-watches-tile-sp.jpeg",
         "sellerId": 1,
-        "status": false,
-        "favourite": false,
+        "status": "false",
+        "favourite": "false",
         "description":
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "deleteStatus": false,
+        "deleteStatus": "false",
         "createdAt": "2022-06-15",
         "updatedAt": "2022-06-15",
       },
@@ -23,11 +23,11 @@
         "image":
           "https://www.danielwellington.com/product-images/DW00100534_Iconic_Li-b1rcfTBF.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
         "sellerId": 2,
-        "status": true,
-        "favourite": false,
+        "status": "true",
+        "favourite": "false",
         "description":
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "deleteStatus": false,
+        "deleteStatus": "false",
         "createdAt": "2022-06-15",
         "updatedAt": "2022-06-15",
       },
@@ -39,11 +39,11 @@
         "image":
           "https://content.rolex.com/dam/2022/upright-bba-with-shadow/m116519ln-0038.png?impolicy=v6-main-feature&c1x=1800&c1y=2800&imwidth=1920",
         "sellerId": 1,
-        "status": true,
-        "favourite": true,
+        "status": "true",
+        "favourite": "true",
         "description":
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "deleteStatus": false,
+        "deleteStatus": "false",
         "createdAt": "2022-06-15",
         "updatedAt": "2022-06-15",
       }
